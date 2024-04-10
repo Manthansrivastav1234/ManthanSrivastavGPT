@@ -1,8 +1,7 @@
 import streamlit as st
 import os
 import random
-import time
-import cohere
+import timeimport cohere
 
 co=cohere.Client('UsQYSzNIUqD7cOMVXvSNHg771GO866OvdgkDbp9e')
 
