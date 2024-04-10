@@ -1,5 +1,7 @@
+Python 3.8.5
 cohere
 streamlit
 os
 random
 time
+
